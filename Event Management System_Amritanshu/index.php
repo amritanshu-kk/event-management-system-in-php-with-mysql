@@ -11,7 +11,7 @@
         <div class = "content"><!--body content holder-->
             <div class = "container">
                 <div class = "col-md-12"><!--body content title holder with 12 grid columns-->
-                    <h1>What we organize</h1><!--body content title-->
+                    <h1>What we are organising!</h1><!--body content title-->
                 </div>
             </div>
 
