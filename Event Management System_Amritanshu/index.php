@@ -31,7 +31,7 @@
                           <br>
                             <h1>Weddings</h1><!--title-->
                             <p><!--content-->
-                            A wedding is a ceremony where two people are united in marriage. Wedding traditions and customs vary greatly between cultures, ethnic groups, religions, countries, and social classes. Most wedding ceremonies involve an exchange of marriage vows by the couple,
+                            A wedding is a ceremony where two people are united in a marriage. Wedding traditions and customs vary greatly between cultures, ethnic groups, religions, countries, and social classes. Most wedding ceremonies involve an exchange of marriage vows by the couple,
                             </p>
 
                         </div><!--subcontent div-->
